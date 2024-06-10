@@ -1,0 +1,30 @@
+* {
+    font-size: 20px;
+    transition: all .5s;
+}
+
+a:hover {
+    color: #fb776b;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    width: 100vw;
+    height: 12vh;
+    background-color: #fab09d;
+    box-shadow: 0 5px #f6867c;
+}
+
+.container {
+    width: 80vw;
+    margin: 0 auto;
+}
+
+.header-title {
+    color: white;
+    font-size: 6vh;
+    line-height: 12vh;
+}
